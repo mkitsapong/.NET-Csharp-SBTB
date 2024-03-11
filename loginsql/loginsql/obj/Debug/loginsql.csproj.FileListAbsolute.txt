@@ -1,0 +1,11 @@
+E:\PDOTNET\loginsql\loginsql\bin\Debug\loginsql.exe.config
+E:\PDOTNET\loginsql\loginsql\bin\Debug\loginsql.exe
+E:\PDOTNET\loginsql\loginsql\bin\Debug\loginsql.pdb
+E:\PDOTNET\loginsql\loginsql\obj\Debug\loginsql.csproj.AssemblyReference.cache
+E:\PDOTNET\loginsql\loginsql\obj\Debug\loginsql.csproj.SuggestedBindingRedirects.cache
+E:\PDOTNET\loginsql\loginsql\obj\Debug\loginsql.Form1.resources
+E:\PDOTNET\loginsql\loginsql\obj\Debug\loginsql.Properties.Resources.resources
+E:\PDOTNET\loginsql\loginsql\obj\Debug\loginsql.csproj.GenerateResource.cache
+E:\PDOTNET\loginsql\loginsql\obj\Debug\loginsql.csproj.CoreCompileInputs.cache
+E:\PDOTNET\loginsql\loginsql\obj\Debug\loginsql.exe
+E:\PDOTNET\loginsql\loginsql\obj\Debug\loginsql.pdb

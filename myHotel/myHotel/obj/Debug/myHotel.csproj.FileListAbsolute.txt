@@ -1,0 +1,14 @@
+E:\PDOTNET\myHotel\myHotel\bin\Debug\myHotel.accdb
+E:\PDOTNET\myHotel\myHotel\bin\Debug\myHotel.exe.config
+E:\PDOTNET\myHotel\myHotel\bin\Debug\myHotel.exe
+E:\PDOTNET\myHotel\myHotel\bin\Debug\myHotel.pdb
+E:\PDOTNET\myHotel\myHotel\bin\Debug\Guna.UI2.dll
+E:\PDOTNET\myHotel\myHotel\obj\Debug\myHotel.csproj.AssemblyReference.cache
+E:\PDOTNET\myHotel\myHotel\obj\Debug\myHotel.csproj.SuggestedBindingRedirects.cache
+E:\PDOTNET\myHotel\myHotel\obj\Debug\myHotel.Form1.resources
+E:\PDOTNET\myHotel\myHotel\obj\Debug\myHotel.Properties.Resources.resources
+E:\PDOTNET\myHotel\myHotel\obj\Debug\myHotel.csproj.GenerateResource.cache
+E:\PDOTNET\myHotel\myHotel\obj\Debug\myHotel.csproj.CoreCompileInputs.cache
+E:\PDOTNET\myHotel\myHotel\obj\Debug\myHotel.csproj.CopyComplete
+E:\PDOTNET\myHotel\myHotel\obj\Debug\myHotel.exe
+E:\PDOTNET\myHotel\myHotel\obj\Debug\myHotel.pdb

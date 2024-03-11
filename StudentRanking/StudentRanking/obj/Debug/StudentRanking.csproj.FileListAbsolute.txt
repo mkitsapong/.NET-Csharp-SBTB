@@ -1,0 +1,16 @@
+E:\PDOTNET\StudentRanking\StudentRanking\bin\Debug\StudentRanking.exe.config
+E:\PDOTNET\StudentRanking\StudentRanking\bin\Debug\StudentRanking.exe
+E:\PDOTNET\StudentRanking\StudentRanking\bin\Debug\StudentRanking.pdb
+E:\PDOTNET\StudentRanking\StudentRanking\bin\Debug\Guna.UI2.dll
+E:\PDOTNET\StudentRanking\StudentRanking\obj\Debug\StudentRanking.csproj.AssemblyReference.cache
+E:\PDOTNET\StudentRanking\StudentRanking\obj\Debug\StudentRanking.csproj.SuggestedBindingRedirects.cache
+E:\PDOTNET\StudentRanking\StudentRanking\obj\Debug\StudentRanking.Properties.Resources.resources
+E:\PDOTNET\StudentRanking\StudentRanking\obj\Debug\StudentRanking.csproj.GenerateResource.cache
+E:\PDOTNET\StudentRanking\StudentRanking\obj\Debug\StudentRanking.csproj.CoreCompileInputs.cache
+E:\PDOTNET\StudentRanking\StudentRanking\obj\Debug\StudentRanking.csproj.CopyComplete
+E:\PDOTNET\StudentRanking\StudentRanking\obj\Debug\StudentRanking.exe
+E:\PDOTNET\StudentRanking\StudentRanking\obj\Debug\StudentRanking.pdb
+E:\PDOTNET\StudentRanking\StudentRanking\obj\Debug\StudentRanking.Dashboard.resources
+E:\PDOTNET\StudentRanking\StudentRanking\obj\Debug\StudentRanking.All_User_Control.UC_AddStudent.resources
+E:\PDOTNET\StudentRanking\StudentRanking\obj\Debug\StudentRanking.All_User_Control.UC_Score.resources
+E:\PDOTNET\StudentRanking\StudentRanking\obj\Debug\StudentRanking.Login.resources

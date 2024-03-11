@@ -1,0 +1,16 @@
+E:\PDOTNET\Login_SQL\Login_SQL\bin\Debug\Login_SQL.exe.config
+E:\PDOTNET\Login_SQL\Login_SQL\bin\Debug\Login_SQL.exe
+E:\PDOTNET\Login_SQL\Login_SQL\bin\Debug\Login_SQL.pdb
+E:\PDOTNET\Login_SQL\Login_SQL\obj\Debug\Login_SQL.csproj.AssemblyReference.cache
+E:\PDOTNET\Login_SQL\Login_SQL\obj\Debug\Login_SQL.csproj.SuggestedBindingRedirects.cache
+E:\PDOTNET\Login_SQL\Login_SQL\obj\Debug\Login_SQL.Form1.resources
+E:\PDOTNET\Login_SQL\Login_SQL\obj\Debug\Login_SQL.Properties.Resources.resources
+E:\PDOTNET\Login_SQL\Login_SQL\obj\Debug\Login_SQL.csproj.GenerateResource.cache
+E:\PDOTNET\Login_SQL\Login_SQL\obj\Debug\Login_SQL.csproj.CoreCompileInputs.cache
+E:\PDOTNET\Login_SQL\Login_SQL\obj\Debug\Login_SQL.exe
+E:\PDOTNET\Login_SQL\Login_SQL\obj\Debug\Login_SQL.pdb
+E:\PDOTNET\Login_SQL\Login_SQL\obj\Debug\Login_SQL.Form2.resources
+E:\PDOTNET\Login_SQL\Login_SQL\bin\Debug\Login_SQL.exe.manifest
+E:\PDOTNET\Login_SQL\Login_SQL\bin\Debug\Login_SQL.application
+E:\PDOTNET\Login_SQL\Login_SQL\obj\Debug\Login_SQL.exe.manifest
+E:\PDOTNET\Login_SQL\Login_SQL\obj\Debug\Login_SQL.application

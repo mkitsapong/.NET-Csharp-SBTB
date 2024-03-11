@@ -1,0 +1,14 @@
+E:\PDOTNET\work2\work2\bin\Debug\work2.exe.config
+E:\PDOTNET\work2\work2\bin\Debug\work2.exe
+E:\PDOTNET\work2\work2\bin\Debug\work2.pdb
+E:\PDOTNET\work2\work2\obj\Debug\work2.csproj.AssemblyReference.cache
+E:\PDOTNET\work2\work2\obj\Debug\work2.csproj.SuggestedBindingRedirects.cache
+E:\PDOTNET\work2\work2\obj\Debug\work2.Form1.resources
+E:\PDOTNET\work2\work2\obj\Debug\work2.Properties.Resources.resources
+E:\PDOTNET\work2\work2\obj\Debug\work2.csproj.GenerateResource.cache
+E:\PDOTNET\work2\work2\obj\Debug\work2.csproj.CoreCompileInputs.cache
+E:\PDOTNET\work2\work2\obj\Debug\work2.exe
+E:\PDOTNET\work2\work2\obj\Debug\work2.pdb
+E:\PDOTNET\work2\work2\obj\Debug\work2.Form2.resources
+E:\PDOTNET\work2\work2\obj\Debug\work2.AboutBox1.resources
+E:\PDOTNET\work2\work2\bin\Debug\DB_1611.accdb

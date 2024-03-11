@@ -1,0 +1,14 @@
+E:\PDOTNET\Testdotnet\Testdotnet\bin\Debug\Testdotnet.exe.config
+E:\PDOTNET\Testdotnet\Testdotnet\bin\Debug\Testdotnet.exe
+E:\PDOTNET\Testdotnet\Testdotnet\bin\Debug\Testdotnet.pdb
+E:\PDOTNET\Testdotnet\Testdotnet\bin\Debug\Guna.UI2.dll
+E:\PDOTNET\Testdotnet\Testdotnet\obj\Debug\Testdotnet.csproj.AssemblyReference.cache
+E:\PDOTNET\Testdotnet\Testdotnet\obj\Debug\Testdotnet.csproj.SuggestedBindingRedirects.cache
+E:\PDOTNET\Testdotnet\Testdotnet\obj\Debug\Testdotnet.Form1.resources
+E:\PDOTNET\Testdotnet\Testdotnet\obj\Debug\Testdotnet.Properties.Resources.resources
+E:\PDOTNET\Testdotnet\Testdotnet\obj\Debug\Testdotnet.csproj.GenerateResource.cache
+E:\PDOTNET\Testdotnet\Testdotnet\obj\Debug\Testdotnet.csproj.CoreCompileInputs.cache
+E:\PDOTNET\Testdotnet\Testdotnet\obj\Debug\Testdotnet.csproj.CopyComplete
+E:\PDOTNET\Testdotnet\Testdotnet\obj\Debug\Testdotnet.exe
+E:\PDOTNET\Testdotnet\Testdotnet\obj\Debug\Testdotnet.pdb
+E:\PDOTNET\Testdotnet\Testdotnet\bin\Debug\Database61.accdb

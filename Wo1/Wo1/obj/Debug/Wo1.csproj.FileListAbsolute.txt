@@ -1,0 +1,11 @@
+E:\PDOTNET\Wo1\Wo1\bin\Debug\Wo1.exe.config
+E:\PDOTNET\Wo1\Wo1\bin\Debug\Wo1.exe
+E:\PDOTNET\Wo1\Wo1\bin\Debug\Wo1.pdb
+E:\PDOTNET\Wo1\Wo1\obj\Debug\Wo1.csproj.AssemblyReference.cache
+E:\PDOTNET\Wo1\Wo1\obj\Debug\Wo1.csproj.SuggestedBindingRedirects.cache
+E:\PDOTNET\Wo1\Wo1\obj\Debug\Wo1.Form1.resources
+E:\PDOTNET\Wo1\Wo1\obj\Debug\Wo1.Properties.Resources.resources
+E:\PDOTNET\Wo1\Wo1\obj\Debug\Wo1.csproj.GenerateResource.cache
+E:\PDOTNET\Wo1\Wo1\obj\Debug\Wo1.csproj.CoreCompileInputs.cache
+E:\PDOTNET\Wo1\Wo1\obj\Debug\Wo1.exe
+E:\PDOTNET\Wo1\Wo1\obj\Debug\Wo1.pdb

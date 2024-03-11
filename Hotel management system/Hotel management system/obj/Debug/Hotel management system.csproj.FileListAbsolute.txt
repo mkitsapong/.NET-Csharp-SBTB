@@ -1,0 +1,24 @@
+E:\PDOTNET\Hotel management system\Hotel management system\bin\Debug\Hotel management system.exe.config
+E:\PDOTNET\Hotel management system\Hotel management system\bin\Debug\Hotel management system.exe
+E:\PDOTNET\Hotel management system\Hotel management system\bin\Debug\Hotel management system.pdb
+E:\PDOTNET\Hotel management system\Hotel management system\obj\Debug\Hotel management system.csproj.AssemblyReference.cache
+E:\PDOTNET\Hotel management system\Hotel management system\obj\Debug\Hotel management system.csproj.SuggestedBindingRedirects.cache
+E:\PDOTNET\Hotel management system\Hotel management system\obj\Debug\Hotel_management_system.Form1.resources
+E:\PDOTNET\Hotel management system\Hotel management system\obj\Debug\Hotel_management_system.Properties.Resources.resources
+E:\PDOTNET\Hotel management system\Hotel management system\obj\Debug\Hotel management system.csproj.GenerateResource.cache
+E:\PDOTNET\Hotel management system\Hotel management system\obj\Debug\Hotel management system.csproj.CoreCompileInputs.cache
+E:\PDOTNET\Hotel management system\Hotel management system\obj\Debug\Hotel management system.exe
+E:\PDOTNET\Hotel management system\Hotel management system\obj\Debug\Hotel management system.pdb
+E:\PDOTNET\Hotel management system\Hotel management system\bin\Debug\Guna.UI2.dll
+E:\PDOTNET\Hotel management system\Hotel management system\obj\Debug\Hotel management system.csproj.CopyComplete
+E:\PDOTNET\Hotel management system\Hotel management system\obj\Debug\Hotel_management_system.Dashboard.resources
+E:\PDOTNET\Hotel management system\Hotel management system\obj\Debug\Hotel_management_system.All_User_control.UC_AddRoom.resources
+E:\PDOTNET\Hotel management system\Hotel management system\obj\Debug\Hotel_management_system.UC_addroom.resources
+E:\PDOTNET\Hotel management system\Hotel management system\obj\Debug\Hotel_management_system.UserControl2.resources
+E:\PDOTNET\Hotel management system\Hotel management system\obj\Debug\Hotel_management_system.All_User_control.UC_CustomerRegistration.resources
+E:\PDOTNET\Hotel management system\Hotel management system\obj\Debug\Hotel_management_system.All_User_control.UC_CustomerCheckOut.resources
+E:\PDOTNET\Hotel management system\Hotel management system\obj\Debug\Hotel_management_system.All_User_control.CustomerDetails.resources
+E:\PDOTNET\Hotel management system\Hotel management system\obj\Debug\Hotel_management_system.All_User_control.UC_Employee.resources
+E:\PDOTNET\Hotel management system\Hotel management system\obj\Debug\Hotel_management_system.All_User_control.UC_Payment.resources
+E:\PDOTNET\Hotel management system\Hotel management system\obj\Debug\Hotel_management_system.lease_agreement.resources
+E:\PDOTNET\Hotel management system\Hotel management system\obj\Debug\Hotel_management_system.Form2.resources

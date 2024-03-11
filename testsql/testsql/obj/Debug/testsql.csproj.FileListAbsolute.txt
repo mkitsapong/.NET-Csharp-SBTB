@@ -1,0 +1,12 @@
+E:\PDOTNET\testsql\testsql\obj\Debug\testsql.csproj.AssemblyReference.cache
+E:\PDOTNET\testsql\testsql\obj\Debug\testsql.csproj.SuggestedBindingRedirects.cache
+E:\PDOTNET\testsql\testsql\obj\Debug\testsql.Form1.resources
+E:\PDOTNET\testsql\testsql\obj\Debug\testsql.Properties.Resources.resources
+E:\PDOTNET\testsql\testsql\obj\Debug\testsql.csproj.GenerateResource.cache
+E:\PDOTNET\testsql\testsql\obj\Debug\testsql.csproj.CoreCompileInputs.cache
+E:\PDOTNET\testsql\testsql\obj\Debug\testsql.Form3.resources
+E:\PDOTNET\testsql\testsql\bin\Debug\testsql.exe.config
+E:\PDOTNET\testsql\testsql\bin\Debug\testsql.exe
+E:\PDOTNET\testsql\testsql\bin\Debug\testsql.pdb
+E:\PDOTNET\testsql\testsql\obj\Debug\testsql.exe
+E:\PDOTNET\testsql\testsql\obj\Debug\testsql.pdb

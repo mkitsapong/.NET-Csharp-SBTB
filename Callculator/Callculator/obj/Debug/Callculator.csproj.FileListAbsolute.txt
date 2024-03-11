@@ -1,0 +1,11 @@
+E:\PDOTNET\Callculator\Callculator\bin\Debug\Callculator.exe.config
+E:\PDOTNET\Callculator\Callculator\bin\Debug\Callculator.exe
+E:\PDOTNET\Callculator\Callculator\bin\Debug\Callculator.pdb
+E:\PDOTNET\Callculator\Callculator\obj\Debug\Callculator.csproj.AssemblyReference.cache
+E:\PDOTNET\Callculator\Callculator\obj\Debug\Callculator.csproj.SuggestedBindingRedirects.cache
+E:\PDOTNET\Callculator\Callculator\obj\Debug\Callculator.Form1.resources
+E:\PDOTNET\Callculator\Callculator\obj\Debug\Callculator.Properties.Resources.resources
+E:\PDOTNET\Callculator\Callculator\obj\Debug\Callculator.csproj.GenerateResource.cache
+E:\PDOTNET\Callculator\Callculator\obj\Debug\Callculator.csproj.CoreCompileInputs.cache
+E:\PDOTNET\Callculator\Callculator\obj\Debug\Callculator.exe
+E:\PDOTNET\Callculator\Callculator\obj\Debug\Callculator.pdb

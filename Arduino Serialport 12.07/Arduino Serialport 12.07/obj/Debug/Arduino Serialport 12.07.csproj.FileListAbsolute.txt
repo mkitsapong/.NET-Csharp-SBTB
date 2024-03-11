@@ -1,0 +1,11 @@
+E:\PDOTNET\Arduino Serialport 12.07\Arduino Serialport 12.07\bin\Debug\Arduino Serialport 12.07.exe.config
+E:\PDOTNET\Arduino Serialport 12.07\Arduino Serialport 12.07\bin\Debug\Arduino Serialport 12.07.exe
+E:\PDOTNET\Arduino Serialport 12.07\Arduino Serialport 12.07\bin\Debug\Arduino Serialport 12.07.pdb
+E:\PDOTNET\Arduino Serialport 12.07\Arduino Serialport 12.07\obj\Debug\Arduino Serialport 12.07.csproj.AssemblyReference.cache
+E:\PDOTNET\Arduino Serialport 12.07\Arduino Serialport 12.07\obj\Debug\Arduino Serialport 12.07.csproj.SuggestedBindingRedirects.cache
+E:\PDOTNET\Arduino Serialport 12.07\Arduino Serialport 12.07\obj\Debug\Arduino_Serialport_12._07.Form1.resources
+E:\PDOTNET\Arduino Serialport 12.07\Arduino Serialport 12.07\obj\Debug\Arduino_Serialport_12._07.Properties.Resources.resources
+E:\PDOTNET\Arduino Serialport 12.07\Arduino Serialport 12.07\obj\Debug\Arduino Serialport 12.07.csproj.GenerateResource.cache
+E:\PDOTNET\Arduino Serialport 12.07\Arduino Serialport 12.07\obj\Debug\Arduino Serialport 12.07.csproj.CoreCompileInputs.cache
+E:\PDOTNET\Arduino Serialport 12.07\Arduino Serialport 12.07\obj\Debug\Arduino Serialport 12.07.exe
+E:\PDOTNET\Arduino Serialport 12.07\Arduino Serialport 12.07\obj\Debug\Arduino Serialport 12.07.pdb

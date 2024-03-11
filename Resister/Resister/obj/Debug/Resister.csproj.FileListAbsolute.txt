@@ -1,0 +1,15 @@
+E:\PDOTNET\Resister\Resister\bin\Debug\Resister.exe.config
+E:\PDOTNET\Resister\Resister\bin\Debug\Resister.exe
+E:\PDOTNET\Resister\Resister\bin\Debug\Resister.pdb
+E:\PDOTNET\Resister\Resister\obj\Debug\Resister.csproj.AssemblyReference.cache
+E:\PDOTNET\Resister\Resister\obj\Debug\Resister.csproj.SuggestedBindingRedirects.cache
+E:\PDOTNET\Resister\Resister\obj\Debug\Resister.Form1.resources
+E:\PDOTNET\Resister\Resister\obj\Debug\Resister.Properties.Resources.resources
+E:\PDOTNET\Resister\Resister\obj\Debug\Resister.csproj.GenerateResource.cache
+E:\PDOTNET\Resister\Resister\obj\Debug\Resister.csproj.CoreCompileInputs.cache
+E:\PDOTNET\Resister\Resister\obj\Debug\Resister.exe
+E:\PDOTNET\Resister\Resister\obj\Debug\Resister.pdb
+E:\PDOTNET\Resister\Resister\bin\Debug\Resister.exe.manifest
+E:\PDOTNET\Resister\Resister\bin\Debug\Resister.application
+E:\PDOTNET\Resister\Resister\obj\Debug\Resister.exe.manifest
+E:\PDOTNET\Resister\Resister\obj\Debug\Resister.application

@@ -1,0 +1,16 @@
+E:\PDOTNET\BMI\BMI\bin\Debug\BMI.exe.config
+E:\PDOTNET\BMI\BMI\bin\Debug\BMI.exe
+E:\PDOTNET\BMI\BMI\bin\Debug\BMI.pdb
+E:\PDOTNET\BMI\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+E:\PDOTNET\BMI\BMI\obj\Debug\BMI.csproj.SuggestedBindingRedirects.cache
+E:\PDOTNET\BMI\BMI\obj\Debug\BMI.Form1.resources
+E:\PDOTNET\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+E:\PDOTNET\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+E:\PDOTNET\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+E:\PDOTNET\BMI\BMI\obj\Debug\BMI.exe
+E:\PDOTNET\BMI\BMI\obj\Debug\BMI.pdb
+E:\PDOTNET\BMI\BMI\bin\Debug\Database41.accdb
+E:\PDOTNET\BMI\BMI\bin\Debug\BMI.exe.manifest
+E:\PDOTNET\BMI\BMI\bin\Debug\BMI.application
+E:\PDOTNET\BMI\BMI\obj\Debug\BMI.exe.manifest
+E:\PDOTNET\BMI\BMI\obj\Debug\BMI.application

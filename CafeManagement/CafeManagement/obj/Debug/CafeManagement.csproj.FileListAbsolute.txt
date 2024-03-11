@@ -1,0 +1,13 @@
+E:\PDOTNET\CafeManagement\CafeManagement\bin\Debug\CafeManagement.exe.config
+E:\PDOTNET\CafeManagement\CafeManagement\bin\Debug\CafeManagement.exe
+E:\PDOTNET\CafeManagement\CafeManagement\bin\Debug\CafeManagement.pdb
+E:\PDOTNET\CafeManagement\CafeManagement\bin\Debug\Guna.UI2.dll
+E:\PDOTNET\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.AssemblyReference.cache
+E:\PDOTNET\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.SuggestedBindingRedirects.cache
+E:\PDOTNET\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Form1.resources
+E:\PDOTNET\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Properties.Resources.resources
+E:\PDOTNET\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.cache
+E:\PDOTNET\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+E:\PDOTNET\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.CopyComplete
+E:\PDOTNET\CafeManagement\CafeManagement\obj\Debug\CafeManagement.exe
+E:\PDOTNET\CafeManagement\CafeManagement\obj\Debug\CafeManagement.pdb

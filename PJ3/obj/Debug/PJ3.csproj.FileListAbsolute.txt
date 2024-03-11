@@ -1,0 +1,15 @@
+E:\PDOTNET\PJ3\PJ3\bin\Debug\PJ3.exe.config
+E:\PDOTNET\PJ3\PJ3\bin\Debug\PJ3.exe
+E:\PDOTNET\PJ3\PJ3\bin\Debug\PJ3.pdb
+E:\PDOTNET\PJ3\PJ3\obj\Debug\PJ3.csproj.AssemblyReference.cache
+E:\PDOTNET\PJ3\PJ3\obj\Debug\PJ3.csproj.SuggestedBindingRedirects.cache
+E:\PDOTNET\PJ3\PJ3\obj\Debug\PJ3.Form1.resources
+E:\PDOTNET\PJ3\PJ3\obj\Debug\PJ3.Properties.Resources.resources
+E:\PDOTNET\PJ3\PJ3\obj\Debug\PJ3.csproj.GenerateResource.cache
+E:\PDOTNET\PJ3\PJ3\obj\Debug\PJ3.csproj.CoreCompileInputs.cache
+E:\PDOTNET\PJ3\PJ3\obj\Debug\PJ3.exe
+E:\PDOTNET\PJ3\PJ3\obj\Debug\PJ3.pdb
+E:\PDOTNET\PJ3\PJ3\bin\Debug\PJ3.exe.manifest
+E:\PDOTNET\PJ3\PJ3\bin\Debug\PJ3.application
+E:\PDOTNET\PJ3\PJ3\obj\Debug\PJ3.exe.manifest
+E:\PDOTNET\PJ3\PJ3\obj\Debug\PJ3.application

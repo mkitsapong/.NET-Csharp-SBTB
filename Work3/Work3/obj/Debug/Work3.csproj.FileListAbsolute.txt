@@ -1,0 +1,16 @@
+E:\PDOTNET\Work3\Work3\bin\Debug\DB_1666.accdb
+E:\PDOTNET\Work3\Work3\bin\Debug\Work3.exe.config
+E:\PDOTNET\Work3\Work3\bin\Debug\Work3.exe
+E:\PDOTNET\Work3\Work3\bin\Debug\Work3.pdb
+E:\PDOTNET\Work3\Work3\obj\Debug\Work3.csproj.AssemblyReference.cache
+E:\PDOTNET\Work3\Work3\obj\Debug\Work3.csproj.SuggestedBindingRedirects.cache
+E:\PDOTNET\Work3\Work3\obj\Debug\Work3.Form1.resources
+E:\PDOTNET\Work3\Work3\obj\Debug\Work3.Properties.Resources.resources
+E:\PDOTNET\Work3\Work3\obj\Debug\Work3.csproj.GenerateResource.cache
+E:\PDOTNET\Work3\Work3\obj\Debug\Work3.csproj.CoreCompileInputs.cache
+E:\PDOTNET\Work3\Work3\obj\Debug\Work3.exe
+E:\PDOTNET\Work3\Work3\obj\Debug\Work3.pdb
+E:\PDOTNET\Work3\Work3\bin\Debug\Work3.exe.manifest
+E:\PDOTNET\Work3\Work3\bin\Debug\Work3.application
+E:\PDOTNET\Work3\Work3\obj\Debug\Work3.exe.manifest
+E:\PDOTNET\Work3\Work3\obj\Debug\Work3.application

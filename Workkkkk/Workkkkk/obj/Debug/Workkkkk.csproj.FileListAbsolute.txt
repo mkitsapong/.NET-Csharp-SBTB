@@ -1,0 +1,14 @@
+E:\PDOTNET\Workkkkk\Workkkkk\bin\Debug\DB_S_T.accdb
+E:\PDOTNET\Workkkkk\Workkkkk\bin\Debug\Workkkkk.exe.config
+E:\PDOTNET\Workkkkk\Workkkkk\bin\Debug\Workkkkk.exe
+E:\PDOTNET\Workkkkk\Workkkkk\bin\Debug\Workkkkk.pdb
+E:\PDOTNET\Workkkkk\Workkkkk\bin\Debug\Guna.UI2.dll
+E:\PDOTNET\Workkkkk\Workkkkk\obj\Debug\Workkkkk.csproj.AssemblyReference.cache
+E:\PDOTNET\Workkkkk\Workkkkk\obj\Debug\Workkkkk.csproj.SuggestedBindingRedirects.cache
+E:\PDOTNET\Workkkkk\Workkkkk\obj\Debug\Workkkkk.Form1.resources
+E:\PDOTNET\Workkkkk\Workkkkk\obj\Debug\Workkkkk.Properties.Resources.resources
+E:\PDOTNET\Workkkkk\Workkkkk\obj\Debug\Workkkkk.csproj.GenerateResource.cache
+E:\PDOTNET\Workkkkk\Workkkkk\obj\Debug\Workkkkk.csproj.CoreCompileInputs.cache
+E:\PDOTNET\Workkkkk\Workkkkk\obj\Debug\Workkkkk.csproj.CopyComplete
+E:\PDOTNET\Workkkkk\Workkkkk\obj\Debug\Workkkkk.exe
+E:\PDOTNET\Workkkkk\Workkkkk\obj\Debug\Workkkkk.pdb

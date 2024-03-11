@@ -1,0 +1,17 @@
+E:\PDOTNET\YOUTUBE\YOUTUBE\obj\Debug\YOUTUBE.csproj.AssemblyReference.cache
+E:\PDOTNET\YOUTUBE\YOUTUBE\obj\Debug\YOUTUBE.csproj.SuggestedBindingRedirects.cache
+E:\PDOTNET\YOUTUBE\YOUTUBE\obj\Debug\YOUTUBE.Form1.resources
+E:\PDOTNET\YOUTUBE\YOUTUBE\obj\Debug\YOUTUBE.Properties.Resources.resources
+E:\PDOTNET\YOUTUBE\YOUTUBE\obj\Debug\YOUTUBE.csproj.GenerateResource.cache
+E:\PDOTNET\YOUTUBE\YOUTUBE\obj\Debug\YOUTUBE.csproj.CoreCompileInputs.cache
+E:\PDOTNET\YOUTUBE\YOUTUBE\bin\Debug\YOUTUBE.exe.config
+E:\PDOTNET\YOUTUBE\YOUTUBE\bin\Debug\YOUTUBE.exe
+E:\PDOTNET\YOUTUBE\YOUTUBE\bin\Debug\YOUTUBE.pdb
+E:\PDOTNET\YOUTUBE\YOUTUBE\bin\Debug\Guna.UI2.dll
+E:\PDOTNET\YOUTUBE\YOUTUBE\obj\Debug\YOUTUBE.csproj.CopyComplete
+E:\PDOTNET\YOUTUBE\YOUTUBE\obj\Debug\YOUTUBE.exe
+E:\PDOTNET\YOUTUBE\YOUTUBE\obj\Debug\YOUTUBE.pdb
+E:\PDOTNET\YOUTUBE\YOUTUBE\bin\Debug\YOUTUBE.exe.manifest
+E:\PDOTNET\YOUTUBE\YOUTUBE\bin\Debug\YOUTUBE.application
+E:\PDOTNET\YOUTUBE\YOUTUBE\obj\Debug\YOUTUBE.exe.manifest
+E:\PDOTNET\YOUTUBE\YOUTUBE\obj\Debug\YOUTUBE.application
